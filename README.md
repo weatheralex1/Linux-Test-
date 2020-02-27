@@ -25,3 +25,4 @@ Shows how to run the main.go go program in the myGo folder
 
 Shows how to run the firefox browser
 ./a02-run-firefox.sh
+Thanks To https://github.com/hpssjellis/my-gitpod-vnc for the og.
